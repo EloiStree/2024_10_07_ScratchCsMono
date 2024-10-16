@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.scratchmono",                              
+  "displayName": "Scratch Cs Mono",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Attempt to find equivalent for Scratch block of code in C# Unity3D.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_10_07_ScratchCsMono.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
